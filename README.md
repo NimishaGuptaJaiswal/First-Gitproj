@@ -1,4 +1,4 @@
 # First-Gitproj
 My first git project
 <br>
-Auther Nimisha
+Auther Nimisha Gupta Jaiswal
